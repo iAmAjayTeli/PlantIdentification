@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Plant Identification</string>
+    <string name="buttonTakePhoto">Click Picture</string>
+    <string name="buttonSelectPhoto">Choose Photo</string>
+    <string name="buttonDiagnose">Diagnose</string>
+    <string name="defaultImage">Default result</string>
+</resources>
